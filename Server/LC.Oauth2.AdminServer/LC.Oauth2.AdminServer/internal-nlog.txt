@@ -1,0 +1,186 @@
+2018-11-09 16:35:00.9069 Info Message Template Auto Format enabled
+2018-11-09 16:35:00.9246 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:35:00.9920 Info Adding target File Target[allfile]
+2018-11-09 16:35:00.9920 Info Adding target File Target[ownFile-web]
+2018-11-09 16:35:00.9920 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:35:01.0238 Info Found 51 configuration items
+2018-11-09 16:35:01.0481 Info Configuration initialized.
+2018-11-09 16:35:01.0481 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.10.8381. Product version: 4.5.10.
+2018-11-09 16:35:02.5929 Info Shutting down logging...
+2018-11-09 16:35:02.6291 Info Logger has been shut down.
+2018-11-09 16:35:37.4347 Info Message Template Auto Format enabled
+2018-11-09 16:35:37.4347 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:35:37.5063 Info Adding target File Target[allfile]
+2018-11-09 16:35:37.5082 Info Adding target File Target[ownFile-web]
+2018-11-09 16:35:37.5082 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:35:37.5361 Info Found 51 configuration items
+2018-11-09 16:35:37.5577 Info Configuration initialized.
+2018-11-09 16:35:37.5577 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.10.8381. Product version: 4.5.10.
+2018-11-09 16:35:38.5379 Info Shutting down logging...
+2018-11-09 16:35:38.5696 Info Logger has been shut down.
+2018-11-09 16:40:30.2398 Info Message Template Auto Format enabled
+2018-11-09 16:40:30.2488 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:40:30.3189 Info Adding target File Target[allfile]
+2018-11-09 16:40:30.3189 Info Adding target File Target[ownFile-web]
+2018-11-09 16:40:30.3189 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:40:30.3504 Info Found 51 configuration items
+2018-11-09 16:40:30.3732 Info Configuration initialized.
+2018-11-09 16:40:30.3732 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:40:31.2298 Info Shutting down logging...
+2018-11-09 16:40:31.2528 Info Logger has been shut down.
+2018-11-09 16:41:06.9623 Info Message Template Auto Format enabled
+2018-11-09 16:41:06.9623 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:41:07.0421 Info Adding target File Target[allfile]
+2018-11-09 16:41:07.0421 Info Adding target File Target[ownFile-web]
+2018-11-09 16:41:07.0551 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:41:07.0721 Info Found 51 configuration items
+2018-11-09 16:41:07.0948 Info Configuration initialized.
+2018-11-09 16:41:07.1009 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:41:08.0151 Info Shutting down logging...
+2018-11-09 16:41:08.0361 Info Logger has been shut down.
+2018-11-09 16:42:03.3424 Info Message Template Auto Format enabled
+2018-11-09 16:42:03.3606 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:42:03.4280 Info Adding target File Target[allfile]
+2018-11-09 16:42:03.4301 Info Adding target File Target[ownFile-web]
+2018-11-09 16:42:03.4301 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:42:03.4568 Info Found 51 configuration items
+2018-11-09 16:42:03.4781 Info Configuration initialized.
+2018-11-09 16:42:03.4781 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:42:04.2259 Info Shutting down logging...
+2018-11-09 16:42:04.2510 Info Logger has been shut down.
+2018-11-09 16:44:11.8664 Info Message Template Auto Format enabled
+2018-11-09 16:44:11.8664 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:44:11.9541 Info Adding target File Target[allfile]
+2018-11-09 16:44:11.9541 Info Adding target File Target[ownFile-web]
+2018-11-09 16:44:11.9660 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:44:11.9850 Info Found 51 configuration items
+2018-11-09 16:44:12.0113 Info Configuration initialized.
+2018-11-09 16:44:12.0113 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:44:12.8722 Info Shutting down logging...
+2018-11-09 16:44:12.9041 Info Logger has been shut down.
+2018-11-09 16:47:52.6626 Info Message Template Auto Format enabled
+2018-11-09 16:47:52.6741 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:47:52.7390 Info Adding target File Target[allfile]
+2018-11-09 16:47:52.7419 Info Adding target File Target[ownFile-web]
+2018-11-09 16:47:52.7419 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:47:52.7714 Info Found 51 configuration items
+2018-11-09 16:47:52.7971 Info Configuration initialized.
+2018-11-09 16:47:52.7971 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:47:53.6334 Info Shutting down logging...
+2018-11-09 16:47:53.6562 Info Logger has been shut down.
+2018-11-09 16:50:40.1614 Info Message Template Auto Format enabled
+2018-11-09 16:50:40.1721 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-09 16:50:40.2331 Info Adding target File Target[allfile]
+2018-11-09 16:50:40.2331 Info Adding target File Target[ownFile-web]
+2018-11-09 16:50:40.2439 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-09 16:50:40.2594 Info Found 51 configuration items
+2018-11-09 16:50:40.2787 Info Configuration initialized.
+2018-11-09 16:50:40.2787 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-09 16:50:49.2370 Info Shutting down logging...
+2018-11-09 16:50:49.2573 Info Logger has been shut down.
+2018-11-22 17:49:55.6101 Info Message Template Auto Format enabled
+2018-11-22 17:49:55.6502 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 17:49:55.8470 Info Adding target File Target[allfile]
+2018-11-22 17:49:55.8487 Info Adding target File Target[ownFile-web]
+2018-11-22 17:49:55.8487 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 17:49:55.8766 Info Found 51 configuration items
+2018-11-22 17:49:55.8981 Info Configuration initialized.
+2018-11-22 17:49:55.9224 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 17:50:10.9141 Info Message Template Auto Format enabled
+2018-11-22 17:50:10.9141 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 17:50:11.0290 Info Adding target File Target[allfile]
+2018-11-22 17:50:11.0290 Info Adding target File Target[ownFile-web]
+2018-11-22 17:50:11.0422 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 17:50:11.0643 Info Found 51 configuration items
+2018-11-22 17:50:11.1010 Info Configuration initialized.
+2018-11-22 17:50:11.1135 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 17:55:19.9572 Info Message Template Auto Format enabled
+2018-11-22 17:55:19.9809 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 17:55:20.0782 Info Adding target File Target[allfile]
+2018-11-22 17:55:20.0887 Info Adding target File Target[ownFile-web]
+2018-11-22 17:55:20.0887 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 17:55:20.1133 Info Found 51 configuration items
+2018-11-22 17:55:20.1339 Info Configuration initialized.
+2018-11-22 17:55:20.1339 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 17:56:00.5597 Info Message Template Auto Format enabled
+2018-11-22 17:56:00.5728 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 17:56:00.6766 Info Adding target File Target[allfile]
+2018-11-22 17:56:00.6766 Info Adding target File Target[ownFile-web]
+2018-11-22 17:56:00.6924 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 17:56:00.7221 Info Found 51 configuration items
+2018-11-22 17:56:00.7525 Info Configuration initialized.
+2018-11-22 17:56:00.7694 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 17:59:13.4688 Info Message Template Auto Format enabled
+2018-11-22 17:59:13.4793 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 17:59:13.5768 Info Adding target File Target[allfile]
+2018-11-22 17:59:13.5768 Info Adding target File Target[ownFile-web]
+2018-11-22 17:59:13.5898 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 17:59:13.6080 Info Found 51 configuration items
+2018-11-22 17:59:13.6280 Info Configuration initialized.
+2018-11-22 17:59:13.6388 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:06:39.7993 Info Message Template Auto Format enabled
+2018-11-22 18:06:39.8168 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:06:39.9087 Info Adding target File Target[allfile]
+2018-11-22 18:06:39.9107 Info Adding target File Target[ownFile-web]
+2018-11-22 18:06:39.9107 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:06:39.9448 Info Found 51 configuration items
+2018-11-22 18:06:39.9723 Info Configuration initialized.
+2018-11-22 18:06:39.9844 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:09:11.6760 Info Message Template Auto Format enabled
+2018-11-22 18:09:11.6888 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:09:11.7858 Info Adding target File Target[allfile]
+2018-11-22 18:09:11.7858 Info Adding target File Target[ownFile-web]
+2018-11-22 18:09:11.8058 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:09:11.8235 Info Found 51 configuration items
+2018-11-22 18:09:11.8449 Info Configuration initialized.
+2018-11-22 18:09:11.8617 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:10:11.3107 Info Message Template Auto Format enabled
+2018-11-22 18:10:11.3204 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:10:11.4319 Info Adding target File Target[allfile]
+2018-11-22 18:10:11.4319 Info Adding target File Target[ownFile-web]
+2018-11-22 18:10:11.4446 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:10:11.4647 Info Found 51 configuration items
+2018-11-22 18:10:11.4853 Info Configuration initialized.
+2018-11-22 18:10:11.4996 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:21:48.3252 Info Message Template Auto Format enabled
+2018-11-22 18:21:48.3404 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:21:48.4502 Info Adding target File Target[allfile]
+2018-11-22 18:21:48.4502 Info Adding target File Target[ownFile-web]
+2018-11-22 18:21:48.4624 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:21:48.4833 Info Found 51 configuration items
+2018-11-22 18:21:48.5115 Info Configuration initialized.
+2018-11-22 18:21:48.5235 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:24:10.0295 Info Message Template Auto Format enabled
+2018-11-22 18:24:10.0399 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:24:10.1385 Info Adding target File Target[allfile]
+2018-11-22 18:24:10.1543 Info Adding target File Target[ownFile-web]
+2018-11-22 18:24:10.1620 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:24:10.1822 Info Found 51 configuration items
+2018-11-22 18:24:10.2025 Info Configuration initialized.
+2018-11-22 18:24:10.2136 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:31:47.3378 Info Message Template Auto Format enabled
+2018-11-22 18:31:47.3378 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:31:47.4548 Info Adding target File Target[allfile]
+2018-11-22 18:31:47.4548 Info Adding target File Target[ownFile-web]
+2018-11-22 18:31:47.4655 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:31:47.4839 Info Found 51 configuration items
+2018-11-22 18:31:47.5112 Info Configuration initialized.
+2018-11-22 18:31:47.5259 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:45:18.9297 Info Message Template Auto Format enabled
+2018-11-22 18:45:18.9297 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:45:19.0415 Info Adding target File Target[allfile]
+2018-11-22 18:45:19.0415 Info Adding target File Target[ownFile-web]
+2018-11-22 18:45:19.0415 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:45:19.0698 Info Found 51 configuration items
+2018-11-22 18:45:19.0925 Info Configuration initialized.
+2018-11-22 18:45:19.1040 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:49:12.4436 Info Message Template Auto Format enabled
+2018-11-22 18:49:12.4637 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-22 18:49:12.5565 Info Adding target File Target[allfile]
+2018-11-22 18:49:12.5565 Info Adding target File Target[ownFile-web]
+2018-11-22 18:49:12.5565 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2018-11-22 18:49:12.5829 Info Found 51 configuration items
+2018-11-22 18:49:12.6036 Info Configuration initialized.
+2018-11-22 18:49:12.6203 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
+2018-11-22 18:52:18.1506 Info Shutting down logging...
+2018-11-22 18:52:18.2284 Info Logger has been shut down.
