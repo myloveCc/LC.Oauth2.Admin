@@ -184,3 +184,11 @@
 2018-11-22 18:49:12.6203 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
 2018-11-22 18:52:18.1506 Info Shutting down logging...
 2018-11-22 18:52:18.2284 Info Logger has been shut down.
+2019-03-14 15:18:54.4569 Info Message Template Auto Format enabled
+2019-03-14 15:18:54.5136 Info Loading assembly: NLog.Web.AspNetCore
+2019-03-14 15:18:54.7410 Info Adding target File Target[allfile]
+2019-03-14 15:18:54.7410 Info Adding target File Target[ownFile-web]
+2019-03-14 15:18:54.7538 Info Configured from an XML element in E:\.NET Core\Project\LC.Oauth2.0\LC.Oauth2.Admin\Server\LC.Oauth2.AdminServer\LC.Oauth2.AdminServer\bin\Debug\netcoreapp2.1\NLog.config...
+2019-03-14 15:18:54.7767 Info Found 51 configuration items
+2019-03-14 15:18:54.8082 Info Configuration initialized.
+2019-03-14 15:18:54.8666 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.5.11.8645. Product version: 4.5.11.
